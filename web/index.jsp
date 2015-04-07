@@ -27,6 +27,5 @@
              samer alkhatib second time
          </h3>
 
-         <h1>SHADI ALMOMANI </h1>
     </body>
 </html>
